@@ -31,5 +31,12 @@ This is a simple Spring Boot application with CRUD opeartions that uses JPA with
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/banking-app.git
+   git clone https://github.com/NaveenKDeveloper/SpringBoot_BankingApp.git
    cd banking-app
+
+2. **Update the application.properties file**
+3. **Run the Application:**
+      mvn spring-boot:run
+
+
+
